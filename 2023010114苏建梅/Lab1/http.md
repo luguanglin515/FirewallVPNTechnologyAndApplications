@@ -76,10 +76,10 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 | 字段               | 你的截图中的值 |
 | :----------------- | :------------- |
 | 请求方法（Method） |    GET            |
-| 请求路径（URI）    |     /index.htm           |
+| 请求路径（URI）    |     /           |
 | 协议版本           |    HTTP/1.1            |
 | Host               |     www.yxnu.edu.cn           |
-| User-Agent         |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0              |
+| User-Agent         |  Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 Edg/146.0.0.0            |
 
 **嵌入截图：**
 
