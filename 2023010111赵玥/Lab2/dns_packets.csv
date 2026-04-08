@@ -1,0 +1,3 @@
+"No.","Time","Source","Destination","Protocol","Length","Internet Protocol Version 4","Info"
+"21","8.903625","172.19.50.200","202.203.85.88","DNS","73","â\234\223","Standard query 0x649c A www.baidu.com"
+"23","8.988633","202.203.85.88","172.19.50.200","DNS","135","â\234\223","Standard query response 0x649c A www.baidu.com CNAME www.a.shifen.com A 183.2.172.17 A 183.2.172.177"
