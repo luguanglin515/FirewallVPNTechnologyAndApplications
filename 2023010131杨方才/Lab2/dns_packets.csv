@@ -1,0 +1,3 @@
+No.,Time,Source,Destination,Protocol,Length,Info,,,,,,,,,,,
+21868,103.0612454,172.19.30.126,202.203.85.89,DNS,73,Standard query 0x4c40 A www.baidu.com,,,,,21868,103.0612454,172.19.30.126,202.203.85.89,DNS,73,Standard query 0x4c40 A www.baidu.com
+21872,103.1008794,172.19.30.126,202.203.85.89,ICMP,163,Destination unreachable (Port unreachable),,,,,,,,,,,
