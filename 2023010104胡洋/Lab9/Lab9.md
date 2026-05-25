@@ -706,7 +706,7 @@ sudo ip netns list
 | 过滤命令 |sudo journalctl -k --grep "GUEST-TO-DMZ" --no-pager或者sudo journalctl -k --grep "GUEST-TO-OFFICE" --no-pager |
 | 加 `--limit` 后触发 10 次，日志条数 |5 |
 
-![日志过滤](log_filter.jpg)
+![日志过滤](log_filter.png)
 
 ![速率限制](log_limit.png)
 
